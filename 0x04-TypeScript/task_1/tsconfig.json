@@ -1,0 +1,12 @@
+{
+	"complilerOptions": {
+		"outDir": "./dist/",
+		"sourceMap": true,
+		"inImplicitAny": true,
+		"module": "es6",
+		"target": "es5",
+		"allowJs": "true",
+		"moduleResolution": "node",
+		"skipLibCheck": true
+	}
+}
